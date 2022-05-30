@@ -10,10 +10,12 @@
     - just `scheme << file.scm`
     - unit testing
       - [true values in Scheme](https://stackoverflow.com/questions/66393506/true-values-in-scheme)
+      - [why do they quote empty lists in Scheme](https://stackoverflow.com/questions/19468068/why-do-they-quote-empty-lists-in-scheme)
 - Scheme in VS Code
   - formatter
+    - formatting by hand so far
   - unit testing frameworks
-    - https://github.com/nicholasrussell/scmUnit
+    - [scmUnit](https://github.com/nicholasrussell/scmUnit)
   - package manager
 - amend last git commit message
   - `git commit --amend`
