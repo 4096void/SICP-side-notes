@@ -6,6 +6,7 @@
   - [entire source text](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
   - [setup online](https://www.jdoodle.com/execute-scheme-online/)
   - [setup on Mac](https://rayhightower.com/blog/2015/02/18/sicp-study-group/P)
+  - convenient to setup on iPad?
 
 - Scheme language
   - slangs
